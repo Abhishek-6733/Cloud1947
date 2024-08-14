@@ -9,3 +9,4 @@ devops contains philosophy
 devops is a container of tool
 in git we do have vs code editor
 somthing new we are doing
+uday is goind to do bad thungs
